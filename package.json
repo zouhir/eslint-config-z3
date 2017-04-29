@@ -51,7 +51,7 @@
     "eslint": ">=3.0.0",
     "eslint-plugin-react": ">=2.7.1"
   },
-  "repository": {v
+  "repository": {
     "type": "git",
     "url": "https://github.com/zouhir/eslint-config-z3.git"
   },
