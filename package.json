@@ -4,18 +4,19 @@
   "version": "0.1.0",
   "author": "Zouhir Chahoud <zouhir@zouhir.org> (http://zouhir.org/)",
   "bugs": {
-    "url": "https://github.com/zouhir/eslint-config-standard-preact/issues"
+    "url": "https://github.com/zouhir/eslint-config-z3/issues"
   },
   "dependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint-config-standard-jsx": "^4.0.1"
+    "eslint-config-standard-jsx": "^4.0.1",
+    "standard": "^10.0.2"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-plugin-react": "^6.10.3",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/zouhir/eslint-config-standard-preact",
+  "homepage": "https://github.com/zouhir/eslint-config-z3",
   "keywords": [
     "JavaScript Standard Style",
     "check",
@@ -50,9 +51,9 @@
     "eslint": ">=3.0.0",
     "eslint-plugin-react": ">=2.7.1"
   },
-  "repository": {
+  "repository": {v
     "type": "git",
-    "url": "git://github.com/zouhir/eslint-config-standard-preact.git"
+    "url": "https://github.com/zouhir/eslint-config-z3.git"
   },
   "scripts": {
     "test": "tape test/*.js"

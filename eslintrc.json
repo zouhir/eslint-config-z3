@@ -25,16 +25,23 @@
   "rules": {
     "semi": [2, "always"],
     "no-extra-semi": 2,
+    "space-before-function-paren": 0,
+    "generator-star-spacing": 0,
+    "brace-style": [2, "stroustrup", {"allowSingleLine": true}],
+    "react/no-did-update-set-state": 2,
+    "react/no-unknown-property": [2, {"ignore" : ["class"]}],
+    "react/react-in-jsx-scope": 2,
     "react/jsx-no-bind": [2, {
       "allowArrowFunctions": true,
       "allowBind": false,
       "ignoreRefs": true
     }],
-    "react/no-did-update-set-state": 2,
-    "react/no-unknown-property": [2, {"ignore" : ["class"]}],
-    "react/react-in-jsx-scope": 2,
-    "space-before-function-paren": 0,
-    "generator-star-spacing": 0,
-    "brace-style": [2, "stroustrup", {"allowSingleLine": true}]
+    "no-confusing-arrow": [2, {"allowParens": true}],
+
+    "no-useless-computed-key": 2,
+    "no-useless-constructor": 2,
+    "no-useless-rename": 2,
+    "constructor-super": 2,
+    "no-new-symbol": 2,
   }
 }
