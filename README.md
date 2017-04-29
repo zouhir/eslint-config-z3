@@ -7,9 +7,18 @@
 
 The Great ESLint Rules of Zouhir
 
-<br />
-<br />
-
 </h1>
 
-> Because it is very important to make code more readable, especially shitty one.
+Because it is very important to make code more readable, especially shitty one.
+
+✅ Those are personal lint configs.
+
+✅ 100% of people surveyed actually loved those rules, even Maroush's 2 years old baby boy likes them very much.
+
+✅ Based on JS Very Standard Style.
+
+✅ With `;` but they still Standard.
+
+💣 Don't call them semi-standard, I know you want to smartass.
+
+✅ Use ONLY for peaceful programs.
