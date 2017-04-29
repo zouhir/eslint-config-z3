@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-z3",
   "description": "Zouhir's ESLint configs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Zouhir Chahoud <zouhir@zouhir.org> (http://zouhir.org/)",
   "bugs": {
     "url": "https://github.com/zouhir/eslint-config-z3/issues"
